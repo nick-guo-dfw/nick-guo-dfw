@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nick-guo-dfw
-- 👀 I’m interested in tennis, optimization and automated reports
+- 👋 Hi, I’m Nick Guo @nick-guo-dfw
+- 👀 I’m interested in racquet sports, skiing, optimization, and automated reports
 - 🌱 I’m currently learning Databricks
-- 💞️ I’m looking to collaborate on Pricing projects
+- 💞️ I’m looking to collaborate on all kinds of Revenue Management projects
 - 📫 How to reach me ... [Email](mailto:yaoqi.guo@aa.com)
 
 <!---
